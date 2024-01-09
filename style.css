@@ -1,0 +1,22 @@
+.line {
+    background-color: #31d2f2;
+    width: 200px;
+    height: 3px;
+}
+
+.sticky {
+    position: sticky;
+}
+
+img, iframe {
+    border-radius: 5%;
+}
+
+textarea {
+    height: 200px !important;
+}
+
+.footer-line {
+    background-color: #f9f8fa;
+    opacity: 1;
+}
